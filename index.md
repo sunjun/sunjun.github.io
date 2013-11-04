@@ -1,2 +1,2 @@
-[hello world](mindfulstart.me/hello_world.html)
+[hello world](hello_world.html)
 ==========
