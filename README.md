@@ -4,7 +4,7 @@ sunjun.github.io
 # TO DO
 
 1. write a markdown sytle file.
-2. sennd to the python script.
+2. send to the python script.
 
 ## Script to do
 
