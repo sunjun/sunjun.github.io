@@ -1,0 +1,8 @@
+markdown: rdiscount
+permalink: /:categories/:title/
+url: http://mindfulstart.me
+author: Sun Jun
+pygments: true
+safe: true
+paginate: 16
+
